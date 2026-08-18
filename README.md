@@ -336,7 +336,7 @@ The repository will be maintained for the complete duration of the project and w
 Repository access will be granted to:
 
 * **Project Guide:** RAJKUMAR PATIL
-* **Course Coordinator:** To be added
+* **Course Coordinator:** Lavanya Gottemukkala
 
 **Common Team Repository URL:** To be added
 
